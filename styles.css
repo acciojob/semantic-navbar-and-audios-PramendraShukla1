@@ -1,2 +1,17 @@
+nav {
+  display: flex;
+  align-items: center;
+}
+ul {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.audio_container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 
 /* Your CSS Code here. */
